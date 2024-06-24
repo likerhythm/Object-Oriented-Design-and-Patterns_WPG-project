@@ -1,7 +1,7 @@
 # Object-Oriented Design and Patterns_WPG project <br> [24-1학기 객체지향설계와패턴] 설계 프로젝트
  
 <details>
- <summary>V0</summary>
+ <summary>V0 - 2024.06.07</summary>
  전체 UML
  <img src="UML/UML_v0.png" alt="UML_v0" width="1000">
  <img src="readme_img/UML_v0_1.png" alt="UML_v0_1" width="1000">
