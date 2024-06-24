@@ -2,5 +2,5 @@
  
 <details>
  <summary>V0</summary>
-  <img src="UML/UML_v0.png" alt="UML_v0" width="300">
+  <img src="UML/UML_v0.png" alt="UML_v0" width="700">
 </details>
