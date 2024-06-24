@@ -2,5 +2,5 @@
  
 <details>
  <summary>V0</summary>
- ![v0 UML](UML/UML_v0.png)
+  <img src="UML/UML_v0.png" alt="UML_v0" width="300">
 </details>
