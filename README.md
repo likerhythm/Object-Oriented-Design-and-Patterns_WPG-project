@@ -20,8 +20,7 @@
  <img src="readme_img/UML_v0_2.png" alt="UML_v0_2" width="1000">
  <br>InputChain 추상클래스를 구현하는 클래스들은 책임체인 패턴으로 구현되었다.
  <br>InputChain을 상속받은 클래스들이 사용자의 입력을 종류별로 받으며 InputSystemState에서 chain의 nextHandler들을 세팅한다.
- <br>각 체인에서는 싱글톤 패턴이 적용된 DataManager의 instance를 호출하여 입력 받은 데이터들을 저장한다.
-<br>
+ <br>각 체인에서는 싱글톤 패턴이 적용된 DataManager의 instance를 호출하여 입력 받은 데이터들을 저장한다.<br>
  2. **저장된 데이터로 퀴즈를 만드는 단계**
 <br>두 번째 단계에서는 저장된 데이터로 퀴즈를 만든다. 
 <br>다음 사진에서 붉은 상자로 표시된클래스들이 이 단계의 주요 클래스들이다. 
