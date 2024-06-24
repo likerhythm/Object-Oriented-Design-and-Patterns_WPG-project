@@ -2,5 +2,5 @@
  
 <details>
  <summary>V0</summary>
- ![v0 UML](v0/UML.png)
+ ![v0 UML](UML/UML_v0.png)
 </details>
